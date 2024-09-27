@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hafiveyaviye.netlify.app/sitemap.xml
